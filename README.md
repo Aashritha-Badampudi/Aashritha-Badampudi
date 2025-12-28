@@ -37,5 +37,6 @@
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aashritha-Badampudi&theme=dark&hide_border=true)
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=Aashritha-Badampudi&theme=github-dark&hide_border=true)
+
 
