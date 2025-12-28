@@ -30,3 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashritha-badampudi&show_icons=true&locale=en&layout=compact" alt="aashritha-badampudi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashritha-badampudi&show_icons=true&locale=en" alt="aashritha-badampudi" /></p>
+
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Aashritha-Badampudi/Aashritha-Badampudi/output/github-contribution-grid-snake.svg)
