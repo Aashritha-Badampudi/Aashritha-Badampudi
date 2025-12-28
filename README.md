@@ -33,10 +33,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashritha-badampudi&" alt="aashritha-badampudi" /></p>
 
-## 🔥 GitHub Streak Stats
+## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aashritha-Badampudi)
-
+![Aashritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashritha-Badampudi&show_icons=true)
 
 ## 🐍 GitHub Contribution Snake 
 ![Snake animation](https://raw.githubusercontent.com/Aashritha-Badampudi/Aashritha-Badampudi/output/github-contribution-grid-snake-dark.svg)
