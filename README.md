@@ -35,7 +35,8 @@
 
 ## 📊 GitHub Stats
 
-![Aashritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashritha-Badampudi&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashritha-Badampudi&show_icons=true)
+
 
 ## 🐍 GitHub Contribution Snake 
 ![Snake animation](https://raw.githubusercontent.com/Aashritha-Badampudi/Aashritha-Badampudi/output/github-contribution-grid-snake-dark.svg)
