@@ -33,6 +33,5 @@
 
 ## 🐍 GitHub Contribution Snake 
 ![Snake animation](https://raw.githubusercontent.com/Aashritha-Badampudi/Aashritha-Badampudi/output/github-contribution-grid-snake-dark.svg)
-## 🔥 GitHub Streak Stats
-<img src="https://streak-stats.demolab.com?user=Aashritha-Badampudi&theme=github-dark" />
+
 
