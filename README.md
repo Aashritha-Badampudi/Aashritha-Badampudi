@@ -1,3 +1,16 @@
+<!-- Banner -->
+<div>
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=Building%20software%20through%20problem%20solving&fontSize=22&fontColor=E5E7EB&animation=fadeIn&color=6B5B95" />
+</div>
+
+<h1 align="center">Hi, I'm Sadhu Ashritha 👋</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/coding.gif"
+       width="420" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Aashritha Badampudi</h1>
 <h3 align="center">A passionate AI/Ml developer from India</h3>
 
