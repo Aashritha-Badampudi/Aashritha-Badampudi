@@ -33,6 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashritha-badampudi&theme=dark" alt="aashritha-badampudi" /></p>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aashritha-badampudi)](https://github.com/aashritha-badampudi/github-readme-stats)
 
 ## 🐍 GitHub Contribution Snake 
 ![Snake animation](https://raw.githubusercontent.com/Aashritha-Badampudi/Aashritha-Badampudi/output/github-contribution-grid-snake-dark.svg)
