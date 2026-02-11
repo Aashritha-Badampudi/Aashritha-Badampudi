@@ -37,10 +37,11 @@
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io)](https://linkedin.com/in/https://www.linkedin.com/in/aashritha-badampudi-9a165b30a/)
+[![LinkedIn](https://img.shields.io)](https://linkedin.com)
 [![Twitter](https://img.shields.io)](https://twitter.com)
 [![Website](https://img.shields.io)](https://yourwebsite.com)
 [![Email](https://img.shields.io)](mailto:youremail@example.com)
+
 
 
 <h3 align="left">💻 Languages and Tools:</h3>
