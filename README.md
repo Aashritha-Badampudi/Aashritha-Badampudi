@@ -45,7 +45,7 @@
 # Github streak stats:
 <p align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=aashritha-badampudi&theme=prussian&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=aashritha-badampudi&theme=hacker&hide_border=true"
   />
 </p>
 
