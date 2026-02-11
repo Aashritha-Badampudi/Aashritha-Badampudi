@@ -35,7 +35,7 @@
   <a href="https://leetcode.com/aashritha_badampudi"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28"/></a>
 </div>
 
-<h3 align="left">💻 Languages and Tools:</h3>
+## 💻 Languages and Tools:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,aws,firebase,react,mysql,git,github,html,css,figma,vscode" height="35"/>
