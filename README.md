@@ -12,8 +12,6 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Aashritha Badampudi</h1>
-<h3 align="center">A passionate AI/Ml developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashritha-badampudi&label=Profile%20views&color=00ff4c&style=plastic" alt="aashritha-badampudi" /> </p>
 
