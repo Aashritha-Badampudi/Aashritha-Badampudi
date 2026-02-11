@@ -37,12 +37,11 @@
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io)](https://linkedin.com)
-[![Twitter](https://img.shields.io)](https://twitter.com)
-[![Website](https://img.shields.io)](https://yourwebsite.com)
-[![Email](https://img.shields.io)](mailto:youremail@example.com)
-
-
+<div align="center">
+  <a href="https://aashrithabadampudi@gmail.com/"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
+  <a href="https://www.linkedin.com/in/aashritha-badampudi-9a165b30a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="37"/></a>
+  <a href="https://hackerrank.com/aashritha123"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/></a>
+</div>
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
