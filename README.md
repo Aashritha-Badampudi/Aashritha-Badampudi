@@ -1,8 +1,7 @@
 <!-- Banner -->
 <div>
   <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=Hi,%20I'm%20Aashritha%20Badampudi%20👋&duration=4000&fontSize=30&fontColor=E5E7EB&animation=typing 3s steps(13) forwards,
-    blink 0.75s step-end infinite&color=6B5B95" />
+       src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=Hi,%20I'm%20Aashritha%20Badampudi%20👋&duration=4000&fontSize=30&fontColor=E5E7EB&animation=typing&color=6B5B95" />
 </div>
 
 ## <p align="center">A passionate AI/ML developer </p>
