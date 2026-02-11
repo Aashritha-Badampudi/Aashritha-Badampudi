@@ -13,7 +13,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashritha-badampudi&label=Profile%20views&color=00ff4c&style=plastic" alt="aashritha-badampudi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashritha-badampudi&label=Profile%20views&color=00ff4c&style=plastic" alt="aashritha-badampudi" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashritha-badampudi" alt="aashritha-badampudi" /></a> </p>
 
