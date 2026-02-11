@@ -13,7 +13,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashritha-badampudi&label=Profile%20views&color=pink&style=plastic" alt="aashritha-badampudi" height="28" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashritha-badampudi&label=Profile%20views&color=6B5B95&style=plastic" alt="aashritha-badampudi" height="28" /> </p> 
 
 
 - I’m currently working on **Python Fundamentals & Mini Projects**
