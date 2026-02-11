@@ -16,24 +16,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashritha-badampudi&label=Profile%20views&color=00ff4c&style=plastic" alt="aashritha-badampudi" /> </p> 
 
 
-- 🔭 I’m currently working on **Python Fundamentals & Mini Projects**
+- I’m currently working on **Python Fundamentals & Mini Projects**
 
-- 🌱 I’m currently learning **Python, Data Structures, and AI Basics**
+- I’m currently learning **Python, Data Structures, and AI Basics**
 
-- 👯 I’m looking to collaborate on **Beginner-friendly Python & AI projects**
+- I’m looking to collaborate on **Beginner-friendly Python & AI projects**
 
-- 🤝 I’m looking for help with **Artificial Intelligence & Machine Learning roadmap**
+- I’m looking for help with **Artificial Intelligence & Machine Learning roadmap**
 
-- 💬 Ask me about **Python basics, problem solving, and getting started with AI**
-
-- 📫 How to reach me **aashrithabadampudi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aashritha-badampudi-9a165b30a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aashritha-badampudi-9a165b30a/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aashritha123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aashritha123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aashritha_badampudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashritha_badampudi" height="30" width="40" /></a>
-</p>
+- Ask me about **Python basics, problem solving, and getting started with AI**
 
 ## Connect With Me
 
