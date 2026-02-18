@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="welcome.gif" width="400">
+  <img src="welcome.gif" width="800" height="250">
 </p>
 
 <!-- Banner -->
