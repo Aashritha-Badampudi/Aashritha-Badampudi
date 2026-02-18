@@ -7,12 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF1493&center=true&vCenter=true&width=850&lines=Hi,+I'm+Aashritha+Badampudi+👋+!" />
 </p>
 
-<div>
-  <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=I'm%20Aashritha%20Badampudi%20👋&duration=4000&fontSize=30&fontColor=E5E7EB&animation=fadeIn&color=6B5B95" />
-</div>
-
-## <p align="center">A passionate AI/ML developer </p>
+## <p align="center">AI & ML Enthusiast | Problem Solver | Tech Explorer </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/coding.gif"
