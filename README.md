@@ -3,6 +3,10 @@
 </p>
 
 <!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Hi,+I'm+Aashritha+Badampudi+👋;Welcome+to+My+GitHub+Profile!" />
+</p>
+
 <div>
   <img width="100%" 
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=I'm%20Aashritha%20Badampudi%20👋&duration=4000&fontSize=30&fontColor=E5E7EB&animation=fadeIn&color=6B5B95" />
