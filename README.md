@@ -60,7 +60,7 @@
 <p align="center">
   <img 
     src="./profile-3d-contrib/profile-night-rainbow.svg" 
-    width="1000" 
+    width="2000" 
     height="300">
 </p>
 
