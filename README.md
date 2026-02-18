@@ -54,9 +54,9 @@
   />
 </p>
 
-## 🐍 GitHub Contribution Snake 
-![Snake animation](https://raw.githubusercontent.com/Aashritha-Badampudi/Aashritha-Badampudi/output/github-contribution-grid-snake-dark.svg)
-
+<!-- ## 🐍 GitHub Contribution Snake -->
+<!-- ![Snake animation](https://raw.githubusercontent.com/Aashritha-Badampudi/Aashritha-Badampudi/output/github-contribution-grid-snake-dark.svg) -->
+## 💎 3D Contribution Animation
 <p align="center">
   <img 
     src="./profile-3d-contrib/profile-night-rainbow.svg" 
