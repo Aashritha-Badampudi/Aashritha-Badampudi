@@ -11,9 +11,8 @@
        width="420" />
 </p>
 
-![Welcome](welcome.gif)
 <p align="center">
-  <img src="welcome.gif" width="600">
+  <img src="welcome.gif" width="400">
 </p>
 
 
