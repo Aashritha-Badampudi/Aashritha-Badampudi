@@ -57,5 +57,11 @@
 ## 🐍 GitHub Contribution Snake 
 ![Snake animation](https://raw.githubusercontent.com/Aashritha-Badampudi/Aashritha-Badampudi/output/github-contribution-grid-snake-dark.svg)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+  <img 
+    src="./profile-3d-contrib/profile-night-rainbow.svg" 
+    width="900" 
+    height="400">
+</p>
+
 
