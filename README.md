@@ -61,7 +61,7 @@
   <img 
     src="./profile-3d-contrib/profile-night-rainbow.svg" 
     width="2000" 
-    height="400">
+    height="500">
 </p>
 
 
