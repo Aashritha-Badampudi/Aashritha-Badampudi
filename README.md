@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF1493&center=true&vCenter=true&width=850&lines=Hi,+I'm+Aashritha+Badampudi👋!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hi,+I'm+Aashritha+Badampudi👋!" />
 </p>
 
 ## <p align="center">AI & ML Enthusiast | Problem Solver | Tech Explorer </p>
