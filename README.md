@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="girl code.gif" width="300" height="150">
+  <img src="girl code.gif" width="250" height="150">
 </p>
 
 <!-- Banner -->
