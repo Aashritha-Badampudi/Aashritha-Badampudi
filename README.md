@@ -46,12 +46,12 @@
 </div>
 
 
-# Github streak stats:
+<!-- # Github streak stats:
 <p align="left">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=aashritha-badampudi&theme=synthwave&hide_border=true"
   />
-</p>
+</p> -->
 
 <!-- ## 🐍 GitHub Contribution Snake -->
 <!-- ![Snake animation](https://raw.githubusercontent.com/Aashritha-Badampudi/Aashritha-Badampudi/output/github-contribution-grid-snake-dark.svg) -->
